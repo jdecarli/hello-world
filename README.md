@@ -1,4 +1,4 @@
 # hello-world
-Just testing GitHub :)
+Just testing GitHub again :)
 
-and now more info... this is just a test
+Now more info... this is just a test
